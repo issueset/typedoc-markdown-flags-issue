@@ -7,7 +7,9 @@
   "license": "MIT",
   "keywords": [],
   "sideEffects": false,
-  "scripts": {},
+  "scripts": {
+    "build": "typedoc"
+  },
   "devDependencies": {
     "typedoc-plugin-markdown": "4.0.0-next.25",
     "typedoc": "0.25.3",
