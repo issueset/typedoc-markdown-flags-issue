@@ -14,5 +14,8 @@
     "typedoc-plugin-markdown": "4.0.0-next.25",
     "typedoc": "0.25.3",
     "typescript": "5.2.2"
+  },
+  "stackblitz": {
+    "startCommand": "npm run build"
   }
 }
