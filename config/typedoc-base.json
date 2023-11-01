@@ -1,0 +1,13 @@
+{
+  // https://typedoc.org/options/
+  "$schema": "https://typedoc.org/schema.json",
+  "plugin": [
+    "typedoc-plugin-markdown",
+  ],
+  "cleanOutputDir": true,
+
+
+  // https://github.com/tgreyuk/typedoc-plugin-markdown/tree/next/packages/typedoc-plugin-markdown#readme
+  "namedAnchors": { "headings": true },
+  "hideBreadcrumbs": true,
+}
